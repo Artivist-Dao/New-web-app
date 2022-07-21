@@ -25,18 +25,17 @@ const HeroSection: NextPage<Props> = ({ className }) => {
             <div className="flex flex-col justify-center page-max-width h-full">
               <div className="content-max-width w-full space-y-10 xl:space-y-20 xl:pr-[20%] 2xl:lg:pr-[5%] 3xl:lg:pr-[20%]">
                 <div className="space-y-5 xl:space-y-10 text-primary">
-                  <IconDot className="w-4 aspect-square" />
-                  <h4 className="text-2xl 2xl:text-4xl font-alfaslabone">
+                  {/* <IconDot className="w-4 aspect-square" /> */}
+                  <h4 className="text-3xl 2xl:text-3xl font-medium">
                     Where artists, activists, and organizations come together to
                     make the world a better place
                   </h4>
                 </div>
                 <div className="space-y-10">
-                  <p className="text-base 2xl:text-3xl font-medium leading-snug">
-                    Artivist is a platform built on a blockchain-based creative
-                    economy, where people, artists, and entities support each
-                    other and join forces to uphold social and environmental
-                    causes.
+                  <p className="text-2xl 2xl:text-3xl font-medium leading-snug">
+                    Artivist is a blockchain-based platform that promotes the creative
+                    economy to support social and environmental
+                    causes
                   </p>
                   <div className="w-full lg:w-1/2">
                     <Link href="#how">

@@ -23,7 +23,7 @@ const Home: NextPage = () => {
     imageUrl: "/artist-of-the-month.jpg",
     name: "Jane Doe",
   };
-  /** TO BE EXATRACTED */
+  /** TO BE EXTRACTED */
   const mediaQuery = window.matchMedia("(max-width: 1024px)");
   const [isMobile, setIsMobile] = useState<boolean>(mediaQuery.matches);
   const handleMediaQueryChange = (e: MediaQueryListEvent) => {

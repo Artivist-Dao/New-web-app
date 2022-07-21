@@ -46,7 +46,7 @@
   }
 
   .dark {
-    --color-primary: 223, 255, 65;
+    --color-primary: 220, 200, 30;
     --color-primary-hover: 208, 220, 30;
     --color-on-primary: 12, 14, 3;
     --color-on-primary-hover: 12, 14, 3;
@@ -181,7 +181,7 @@ button:focus,
 }
 
 .hero-background {
-  background-image: url("/backgrounds/hero-background.jpg");
+  background-image: url("/backgrounds/hero-background-new.jpg");
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;

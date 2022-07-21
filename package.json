@@ -26,5 +26,17 @@
     "eslint": "8.13.0",
     "eslint-config-next": "12.1.5",
     "typescript": "4.6.3"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianaWest/web-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianaWest/web-app/issues"
+  },
+  "homepage": "https://github.com/marianaWest/web-app#readme"
 }
