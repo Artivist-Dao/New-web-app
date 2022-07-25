@@ -46,7 +46,7 @@
   }
 
   .dark {
-    --color-primary: 220, 200, 30;
+    --color-primary: 230, 190, 130;
     --color-primary-hover: 208, 220, 30;
     --color-on-primary: 12, 14, 3;
     --color-on-primary-hover: 12, 14, 3;
@@ -175,7 +175,7 @@ button:focus,
 @media screen and (min-width: 1024px) {
   .hero-glass {
     box-sizing: border-box;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(243, 165, 120, 0.2);
     backdrop-filter: blur(10px);
   }
 }

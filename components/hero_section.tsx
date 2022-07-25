@@ -33,7 +33,7 @@ const HeroSection: NextPage<Props> = ({ className }) => {
                 </div>
                 <div className="space-y-10">
                   <p className="text-2xl 2xl:text-3xl font-medium leading-snug">
-                    Artivist is a blockchain-based platform that promotes the creative
+                    Artivist is a platform that promotes the creative
                     economy to support social and environmental
                     causes
                   </p>

@@ -21,7 +21,7 @@ const AuthNear: NextPage<Props> = ({ className }) => {
       <div className={`${className}`}>
         <button
           className="uppercase text-primary lg:text-lg font-bold tracking-widest lg:tracking-[0.3rem]
-          border-b border-primary
+          border-primary
            hover:text-primary-hover clickable"
           onClick={handleAuth}
         >
